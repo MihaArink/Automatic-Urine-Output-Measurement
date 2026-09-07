@@ -1,0 +1,15 @@
+Metric,Value
+Calibration runs,Runs 1 and 2
+Independent validation run,Run 3
+Calibrated volume range,40-500 mL
+Container capacity,Approximately 800 mL
+Best model by MAE,Linear
+Validation MAE,6.66 mL
+Validation RMSE,8.86 mL
+Validation maximum error,18.66 mL
+Validation mean signed error,-3.02 mL
+Validation R squared,0.9966
+Within ±10 mL,75.0%
+Within ±25 mL,100.0%
+Within ±50 mL,100.0%
+Validation points requiring extrapolation,0
